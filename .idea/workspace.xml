@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="409cd69e-2fe5-47e6-bb20-b81020f196f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assets/Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/about-background-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/about-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/choose-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/delivery-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/home-banner-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/home-banner-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/john-doe-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/pick-meals-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Navbar.js" afterDir="false" />
+    <list default="true" id="409cd69e-2fe5-47e6-bb20-b81020f196f3" name="Changes" comment="insert assests and navbar complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +68,18 @@
       <workItem from="1702745674708" duration="3674000" />
       <workItem from="1702750885556" duration="7050000" />
       <workItem from="1702758241820" duration="1584000" />
-      <workItem from="1703329953824" duration="1587000" />
+      <workItem from="1703329953824" duration="2897000" />
+      <workItem from="1703404431743" duration="2390000" />
+      <workItem from="1703576204532" duration="197000" />
     </task>
+    <task id="LOCAL-00001" summary="insert assests and navbar complete">
+      <created>1703332577483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703332577483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="insert assests and navbar complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="insert assests and navbar complete" />
   </component>
 </project>
