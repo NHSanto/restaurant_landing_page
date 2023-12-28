@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="409cd69e-2fe5-47e6-bb20-b81020f196f3" name="Changes" comment="readme change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,7 @@
       <workItem from="1703329953824" duration="2897000" />
       <workItem from="1703404431743" duration="2390000" />
       <workItem from="1703576204532" duration="953000" />
-      <workItem from="1703763336598" duration="2169000" />
+      <workItem from="1703763336598" duration="4213000" />
     </task>
     <task id="LOCAL-00001" summary="insert assests and navbar complete">
       <created>1703332577483</created>
