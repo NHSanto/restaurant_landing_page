@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="409cd69e-2fe5-47e6-bb20-b81020f196f3" name="Changes" comment="home section done">
-      <change afterPath="$PROJECT_DIR$/src/Components/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Testimonial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Work.js" afterDir="false" />
+    <list default="true" id="409cd69e-2fe5-47e6-bb20-b81020f196f3" name="Changes" comment="readme change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +76,7 @@
       <workItem from="1703329953824" duration="2897000" />
       <workItem from="1703404431743" duration="2390000" />
       <workItem from="1703576204532" duration="953000" />
-      <workItem from="1703763336598" duration="755000" />
+      <workItem from="1703763336598" duration="1840000" />
     </task>
     <task id="LOCAL-00001" summary="insert assests and navbar complete">
       <created>1703332577483</created>
@@ -96,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703576549928</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added all section">
+      <created>1703765214410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703765214410</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme change">
+      <created>1703765876134</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703765876134</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +127,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="insert assests and navbar complete" />
     <MESSAGE value="home section done" />
-    <option name="LAST_COMMIT_MESSAGE" value="home section done" />
+    <MESSAGE value="added all section" />
+    <MESSAGE value="readme change" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme change" />
   </component>
 </project>
